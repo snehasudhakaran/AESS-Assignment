@@ -1,0 +1,20 @@
+.child{
+    border-radius: 7.32px;
+    box-shadow: 2.31px 2.31px 12.2px 
+    rgba(0, 0, 0, 0.04), -2.31px -2.31px 12.2px 
+    rgba(0, 0, 0, 0.04);
+}
+
+.position-container-header{
+    border-bottom: 0.2px solid rgb(235, 232, 232, 0.4);
+    padding: 10px 30px;
+}
+
+.position-container-header h1{
+    font-size: 15.86px;
+    font-weight: 500;
+    text-align: left;
+    color: rgba(85, 85, 85, 1);
+    margin: 0px;
+}
+

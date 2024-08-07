@@ -1,0 +1,40 @@
+
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.home-container{
+  padding: 40px;
+}
+
+.home-content-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .child {
+    box-sizing: border-box;
+  }
+  .child1 {
+    width: 37%;
+  }
+  .child2 {
+    width:60%;
+  }
+  
+  @media screen and (min-device-width: 320px) and (max-device-width: 1000px) {
+    .home-container{
+      flex-direction: column;
+      gap:30px;
+    }
+
+    .child1 {
+      width: 100%;
+    }
+
+    .child2 {
+      width:100%;
+      margin-top: 30px;
+    }
+  }

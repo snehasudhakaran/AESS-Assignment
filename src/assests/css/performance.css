@@ -1,0 +1,86 @@
+
+.performance-container-header{
+    border-bottom: 0.2px solid rgb(235, 232, 232, 0.4);
+    padding: 10px 30px;
+}
+
+.performance-container-header h1{
+    font-size: 15.86px;
+    font-weight: 500;
+    text-align: left;
+    color: rgba(85, 85, 85, 1);
+    margin: 0px;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 30px ;
+}
+  
+  .row-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  
+  .box {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .box h2 {
+    margin: 0 0 0px;
+    font-size: 36.59px;
+    font-weight: 500;
+    color: rgba(13, 181, 60, 1);
+    /* line-height: 
+    91.42px; */
+  }
+  
+  .box p {
+    font-size: rgba(85, 85, 85, 1);
+    font-size: 13.42px;
+    font-weight: 400;
+  }
+  
+  .barchart-container-header{
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .barchart-buttons{
+    display: flex;
+    gap:10px;
+  }
+  
+  .barchart-button{
+    display: flex;
+    gap:15px;
+    align-items: center;
+    font-size: 8.84px;
+    color:rgba(85, 85, 85, 1);
+    background-color: white;
+    border: 1.11px solid #ddd;
+    border-radius: 2.21px;
+    padding: 5px 7px;
+  }
+
+  .barchart-button span{
+    color:  
+    rgba(18, 150, 176, 1);
+    font-size: 10px;
+  }
+
+  .barchart-container-header h1{
+    color: rgba(85, 85, 85, 1);
+    font-weight: 500;
+    font-size: 15.86px;
+    text-align: left;
+    margin: 0px;
+  }
+
+  .barchart-container-header p{
+    margin: 0px;
+  }

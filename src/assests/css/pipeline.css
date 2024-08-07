@@ -1,0 +1,44 @@
+.pipeline-container .box{
+    padding: 10px 30px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.pipeline-container .parent-container{
+    padding: 30px 30px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.pipeline-box{
+    padding:15px 22px;
+    border-radius: 
+    7.32px;
+    background-color: rgba(231, 243, 245, 1);
+}
+
+.pipeline-box h1{
+    font-size: 
+    31.71px;
+    font-weight: 500;
+    color: rgba(106, 177, 191, 1);
+}
+
+.pipeline-box p{
+    font-size: 
+    10.98px;
+    font-weight: 400;
+    color: 
+    rgba(85, 85, 85, 1);
+}
+
+.line{
+    width: 30px;
+    background-color:rgba(191, 191, 191, 1);
+    height: 1.83px;
+}
+
+h1, p{
+    margin: 0px;
+}

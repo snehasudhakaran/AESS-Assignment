@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+Single Page Application with Bar Chart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description:
 
-## Available Scripts
+    This is a single-page application (SPA) built with React that features a customizable bar chart using the Highcharts library. The application includes three main sections:
 
-In the project directory, you can run:
+    Performance: Displays performance-related metrics.
 
-### `npm start`
+    Pipeline: Shows information about the pipeline.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    Position Container Display: Provides insights into the position container.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    The app utilizes Ionicons for icons and offers a clean and interactive user experience.
 
-### `npm test`
+Features:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    Interactive bar chart using Highcharts.
 
-### `npm run build`
+    Three distinct sections: Performance, Pipeline, and Position Container Display.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    Stylish icons from Ionicons.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    Responsive design for different screen sizes.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Technologies Used:
+    React: JavaScript library for building user interfaces.
 
-### `npm run eject`
+    Highcharts: Library for creating interactive charts.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    Ionicons: Icon library for stylish icons.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    CSS3: For styling and responsive design.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    HTML5: For structuring web content.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Installation:
 
-## Learn More
+    git clone https://github.com/snehasudhakaran/AESS-Assignment.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    Install Node Modules: npm install or yarn install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Usage: 
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    Start the Development Server: npm start or yarn start
